@@ -6,10 +6,10 @@ let handler = async (m, { conn, text }) => {
 ╭═[ *SCRIPT* ]═────···
 ┴
 📮: *SC-SC MULU! BUAT LAH JGAN GRTISAN MULU...*
-*PEMILIK SC:* wa.me/6287773973818
+*PEMILIK SC:* wa.me/94772496127
 ╭═[ [❗] kalau mau beli sc silahkan chat pemilik sc aja ]═────···
 `.trim()
-conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'PRIVASI')).buffer(), ext, '©zifabotz', 'MENU', '.menu', 'SC LAIN', '.sclain', m)
+conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'PRIVASI')).buffer(), ext, '𝐨𝐰𝐧𝐞𝐫', 'MENU', '.menu', 'SC LAIN', '.sclain', m)
 
 }
 handler.customPrefix = /^(sc|.sc|script|.script)$/i
