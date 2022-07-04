@@ -4,9 +4,9 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 
 let str = `♡   ❍ㅤ  ⎙ㅤ ⌲
-╭─[ *_ZIFABOTZ_* ]─✧
+╭─𝒈𝒂𝒓𝒇𝒊𝒆𝒍𝒅 𝒎𝒅 𝒗3✧
 ╰─────···
-📮 𝚂𝚒𝚕𝚊𝚑𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑 𝚖𝚎𝚗𝚞 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒_____•••••••••
+📮 𝒃𝒐𝒕𝒃 𝒎𝒆𝒏𝒖_____•••••••••
 
 ╭══════════════════๑—————————
 *║╭──❉ 〔Utama〕*
@@ -556,17 +556,17 @@ let fkon = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ?
     "productMessage": {
       "product": {
         "productImage": image,
-        "productId": "4938174216214248",
-        "title": "𝚃𝙰𝙼𝙿𝙸𝙻𝙰𝙽 𝙼𝙴𝙽𝚄 𝚉𝙸𝙵𝙰𝙱𝙾𝚃𝚉",
+        "productId": "4938174216214684",
+        "title": "𝒈𝒂𝒓𝒇𝒊𝒆𝒍𝒅 𝒃𝒐𝒕",
         "description": '\n' + watermark + '\n' + str,
-        "retailerId": "Thanks For zifabotz !",
+        "retailerId": "Thanks For 𝑎𝑦𝑜 !",
         "url": "▌│█║▌║▌║║▌║▌║█│▌",
         "descriptionCount": "999999999",
-        "productImageCount": "1",
+        "productImageCount": "2",
       },
-      "businessOwnerJid": "6287773973818@s.whatsapp.net",
+      "businessOwnerJid": "94772496127@s.whatsapp.net",
       "contextInfo": {
-        "forwardingScore": 9999,
+        "forwardingScore": 999999,
         "isForwarded": true
       }
     }
