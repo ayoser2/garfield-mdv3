@@ -1,7 +1,7 @@
-// Thanks For Allah
-// AlyaaXzy
-// BOTCAHX
-// Zifabotz
+// Thanks For lord buddha
+// my family
+//  my best friends
+// & me
 
 let fs = require('fs')
 global.owner = ['6287773973818', '6287773973818','6287773973818', '6287773973818', '6287773973818'] // Letakan nomor kamu disini
