@@ -225,10 +225,10 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                         "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `
 ♡   ❍ㅤ  ⎙ㅤ ⌲
-╭─[ *_ZIFABOTZ_* ]─✧
+╭─[ *__* ]─✧
 ╰─────···
-📮 𝚂𝚒𝚕𝚊𝚑𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑 𝚖𝚎𝚗𝚞 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒_____•••••••••
-⬣━〔Powered By Rozi━⬣
+📮 𝑏𝑜𝑡 𝑚𝑒𝑛𝑢_____•••••••••
+⬣━〔Powered By 𝒎𝒐𝒏𝒈𝒐𝑫𝑩━⬣
 ▌│█║▌║▌║║▌║▌║█│▌ `.trim(),                        "footerText": "*©zifabotz*",                        "buttonText": "««TAMPILAN MENU««",                        "listType": "SINGLE_SELECT",                        "sections": [
                             {
                                 "rows": [{
@@ -547,16 +547,16 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   res = "udah malam tidur gih •>•"
   if (time >= 4) {
-    res = "Hai selamat pagi hari •>•"
+    res = "𝒈𝒐𝒐𝒅 𝒎𝒐𝒓𝒏𝒊𝒎•>•"
   }
   if (time > 10) {
-    res = "Hai selamat siang hari •>•"
+    res = "𝒈𝒐𝒐𝒅 𝒂𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒎•>•"
   }
   if (time >= 15) {
-    res = "Hai selamat sore hari •>•"
+    res = "𝒈𝒐𝒐𝒅 𝒆𝒗𝒊𝒏𝒊𝒎•>•"
   }
   if (time >= 18) {
-    res = "Hai selamat malam hari •>•"
+    res = "𝒈𝒐𝒐𝒅 𝒏𝒊𝒈𝒉𝒕•>•"
   }
   return res
 }
